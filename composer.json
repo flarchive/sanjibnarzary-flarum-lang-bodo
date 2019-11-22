@@ -1,0 +1,41 @@
+{
+    "name": "sanjibnarzary/flarum-lang-bodo",
+    "description": "Bodo language pack for Flarum and its bundled extensions.",
+    "type": "flarum-extension",
+    "keywords": ["extension", "flarum", "bodo", "locale", "translation"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sanjib Narzary",
+            "email": "o-._.-o@live.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/sanjibnarzary/flarum-lang-bodo/issues",
+        "source": "https://github.com/sanjibnarzary/flarum-lang-bodo"
+    },
+    "require": {
+        "flarum/core": "^0.1.0-beta.10"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.4.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Bodo",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#fff",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "brx",
+            "title": "Bodo"
+        },
+        "flagrow": {
+            "discuss": "https://discuss.flarum.org/d/22046-bodo-language-pack"
+        }
+    }
+}
