@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of sanjibnarzary/flarum-lang-bodo.** Not for installation: use [Packagist](https://packagist.org/packages/sanjibnarzary/flarum-lang-bodo) or the [upstream repository](https://github.com/sanjibnarzary/flarum-lang-bodo).
 
-**0** versions archived · Latest: [`v0.2.8.beta.4`](https://github.com/flarchive/sanjibnarzary-flarum-lang-bodo/tree/archive/v0.2.8.beta.4) · License: `MIT` · Flarum: `^0.1.0-beta.10`
+**4** versions archived · Latest: [`v0.2.8.beta.4`](https://github.com/flarchive/sanjibnarzary-flarum-lang-bodo/tree/archive/v0.2.8.beta.4) · License: `MIT` · Flarum: `^0.1.0-beta.10`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.2.8-beta1` | 2019-11-22 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/sanjibnarzary-flarum-lang-bodo/tree/archive/v0.2.8-beta1) |
+| `v0.2.8.beta.2` | 2019-11-22 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/sanjibnarzary-flarum-lang-bodo/tree/archive/v0.2.8.beta.2) |
+| `v0.2.8.beta.3` | 2019-11-22 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/sanjibnarzary-flarum-lang-bodo/tree/archive/v0.2.8.beta.3) |
+| `v0.2.8.beta.4` | 2019-11-22 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/sanjibnarzary-flarum-lang-bodo/tree/archive/v0.2.8.beta.4) |
 
 Catalog entry: [packages/sanjibnarzary-flarum-lang-bodo.json](https://github.com/flarchive/archive-index/blob/main/packages/sanjibnarzary-flarum-lang-bodo.json)
 
